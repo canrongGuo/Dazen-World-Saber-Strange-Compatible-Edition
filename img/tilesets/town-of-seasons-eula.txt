@@ -1,0 +1,99 @@
+============================================================
+EULA.txt
+
+Town of Seasons Tileset Pack
+2016-07-12
+============================================================
+
+READ THIS CAREFULLY BEFORE INSTALLING OR USING Town of Seasons Tileset Pack
+
+I. Introduction
+
+Thank you for purchasing Town of Seasons Tileset Pack. The contents of this pack were created by Sherman 3D. This pack contains several tile sheets with buildings and objects that can be used to create a town across seasons (spring, summer, autumn, winter).
+
+------------------------------------------------------------
+
+II. How to use this pack
+
+After the Resource Pack, "Town of Seasons Tileset Pack" is completely downloaded to your computer, unzip it and place the folder in your desired location. 
+
+1. If you are using RPG Maker MV, simply open your project folder and add material:
+Your project folder location will vary depending on what you specified when you created the game. The default location is in Documents/Games. Click on appropriate sub-folders (img/battlers, img/pictures etc) and copy/paste the material you wish to add.
+
+2. If you are using RPG Maker VX-Ace or older:
+Please use the Resource Manager (key shortcut in VX-Ace is F10) to add the resources to your project.
+
+3. Create a new tileset:
+Go to the "Tilesets" tab in your database. Create a new tileset ("Change Maximum..."), and simply match the filenames and the tilenames together (City_TileB goes into slot TileB for example). Be sure to adjust the passage settings in here as well.
+
+------------------------------------------------------------
+
+III. About Resources in this Materials Add-on Pack
+
+The resources in Town of Seasons Tileset Pack are created for use in game development only, using RPG Maker MV. Alternatively, you may also use these materials with other RPG Makers, as long as you have a valid and legal license for both engines.
+
+Limited advertising use is also allowed, in the forms of screenshots, videos and other media used to promote the game. 
+
+For licensing questions not covered by the paragraphs above, please contact us: support@rpgmakerweb.com
+
+Redistribution of material by itself is not allowed, regardless of whether the material is shared in part only or in its entirety. Personal edits of material are allowed, but they may not be shared with others via e-mail, file-hosting services or physical transfer (ex. By placing the material on a CD) – for free or for a price. 
+
+Resources may be packaged with commercial or non-commercial games and shared as long as they are protected via some means of encryption. We are aware that some RPG Maker applications do not allow you to encrypt the resources your game is using. If this is the case with your project, please contact us.
+
+You may not sell or donate the pack to someone else or sell a sub-license for its use. 
+
+In cases of team projects, all members of the team must own their own copy of the pack. In cases of commissions using the pack (such as commissioning edits, maps and/or covers of the material), both parties need to own their own individual copy of the pack. If you have large teams or need to purchase bulk licenses, please contact us and we will try to assist you.
+
+------------------------------------------------------------
+IV. Town of Seasons Tileset Pack END USER LICENSE AGREEMENT
+
+IMPORTANT, READ CAREFULLY.
+
+PLEASE READ THIS END USER LICENSE AGREEMENT (THE "AGREEMENT") CAREFULLY BEFORE USING THIS RESOURCE PACK. IF YOU (THE "USER") DO NOT AGREE TO THE TERMS, CONDITIONS AND LIMITATIONS OF THIS AGREEMENT, PROMPTLY DELETE THE DIGITAL CONTENT FROM YOUR COMPUTER.
+
+1. Copyright, trademark and other intellectual property rights of Town of Seasons Tileset Pack (the "Product") are property of DEGICA, Co. Ltd. (the "Company" or "DEGICA") and third party allowed by the Company.
+
+2. The resources included in the Product (the "Resource Pack") may be used with RPG Maker VX-Ace Alternatively, you may use the Product with any other entry in the RPG Maker series that retains the Company's rights.  User can create, distribute, or sell their original game by using the Resource Pack only if they meet all the following conditions:  
+
+2.1 You must be a legitimate user of our products. Your product must be registered to you. Registration is automatic at pack purchase via the official store or one of our recognized distributors. In some cases, you may be asked to provide a proof of purchase – such as order number, e-mail, address or receipt. Please keep this information handy.
+
+2.2 You shall use the Product for game-creation and project-specific advertising media only (screenshots, videos).
+
+2.3 Your game must include additional documentation that clearly indicates the use of the Resource Pack and the following copy:
+
+[Copyright](C) Degica, Co. LTD
+Resource creator: Sherman3D
+
+2.4 Solely used for the creation of your game, you can edit, process, and modify the materials contained in the Resource Pack. You will not share these edits with others.
+
+2.5 Do not sell, distribute, lease, or transfer the Resource Pack itself (even if the materials were edited, processed, or modified by the User), as a whole or any of its parts.
+
+3. The Company will bear no responsibility for any damages to the User's computer caused by misuse of the Product. 
+
+4. By using the Product, the User accepts the full terms and takes sole responsibility for use of the Product.
+
+5. The Company will bear no responsibility for any issues and disputes between third parties, regardless of the content, that occur as a result of the creation, distribution, and release of the User's game by using the Product.
+
+------------------------------------------------------------
+Pack Creator:
+Sherman3D
+
+Publisher
+DEGICA Co., LTD
+
+------------------------------------------------------------
+
+V. Contact Information
+
+Customer Support: 
+ support@rpgmakerweb.com
+
+*NOTE: We cannot answer any inquiries that are not related to the product and/or how to use the product. 
+
+Official Store:
+http://www.rpgmakerweb.com/
+------------------------------------------------------------
+
+(C) 2016 DEGICA, Co. LTD..
+
+Microsoft, Windows, Windows Vista, Windows 7, 8 and 10 are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. All other marks, products and company names are the property of their respective owners.

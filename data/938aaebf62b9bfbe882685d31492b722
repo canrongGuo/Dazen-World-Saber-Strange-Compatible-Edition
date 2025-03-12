@@ -1,0 +1,4533 @@
+?<recipe1>
+   result:{type:"item", id:54, amount:1}
+   <materials>
+   {type:"item", id:24, amount:1, cons:false}
+   {type:"item", id:56, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe1>
+<recipe2>
+   result:{type:"item", id:55, amount:2}
+   <materials>
+   {type:"item", id:21, amount:1, cons:false}
+   {type:"item", id:61, amount:1, cons:false}
+   {type:"item", id:56, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe2>
+<recipe3>
+   result:{type:"item", id:49, amount:1}
+   <materials>
+   {type:"item", id:48, amount:1, cons:false}
+   {type:"item", id:56, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:3
+   craftLevel:1
+   known:false
+  <recipe3>
+<recipe4>
+   result:{type:"item", id:62, amount:1}
+   <materials>
+   {type:"item", id:35, amount:1, cons:false}
+   {type:"item", id:66, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe4>
+<recipe5>
+   result:{type:"item", id:65, amount:1}
+   <materials>
+   {type:"item", id:21, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe5>
+<recipe6>
+   result:{type:"armor", id:5, amount:1}
+   <materials>
+   {type:"item", id:21, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe6>
+<recipe7>
+   result:{type:"armor", id:6, amount:1}
+   <materials>
+   {type:"item", id:21, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe7>
+<recipe8>
+   result:{type:"item", id:78, amount:1}
+   <materials>
+   {type:"item", id:45, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:1
+   craftLevel:1
+   known:false
+  <recipe8>
+<recipe9>
+   result:{type:"armor", id:81, amount:1}
+   <materials>
+   {type:"item", id:46, amount:10, cons:false}
+   {type:"item", id:59, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:3
+   craftLevel:1
+   known:false
+  <recipe9>
+<recipe10>
+   result:{type:"armor", id:82, amount:1}
+   <materials>
+   {type:"item", id:46, amount:6, cons:false}
+   {type:"item", id:59, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe10>
+<recipe11>
+   result:{type:"weapon", id:76, amount:1}
+   <materials>
+   {type:"item", id:44, amount:7, cons:false}
+   {type:"item", id:57, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe11>
+<recipe12>
+   result:{type:"weapon", id:77, amount:1}
+   <materials>
+   {type:"item", id:44, amount:8, cons:false}
+   {type:"item", id:47, amount:6, cons:false}
+   {type:"item", id:57, amount:4, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:4
+   craftLevel:1
+   known:false
+  <recipe12>
+<recipe13>
+   result:{type:"weapon", id:78, amount:1}
+   <materials>
+   {type:"item", id:44, amount:12, cons:false}
+   {type:"item", id:57, amount:4, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:4
+   craftLevel:1
+   known:false
+  <recipe13>
+<recipe14>
+   result:{type:"item", id:93, amount:1}
+   <materials>
+   {type:"item", id:94, amount:20, cons:false}
+   {type:"item", id:95, amount:20, cons:false}
+   {type:"item", id:96, amount:1, cons:false}
+   {type:"item", id:66, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:1
+   known:false
+  <recipe14>
+<recipe15>
+   result:{type:"armor", id:86, amount:1}
+   <materials>
+   {type:"item", id:46, amount:10, cons:false}
+   {type:"item", id:100, amount:5, cons:false}
+   {type:"item", id:101, amount:3, cons:false}
+   {type:"item", id:59, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:5
+   craftLevel:1
+   known:false
+  <recipe15>
+<recipe16>
+   result:{type:"armor", id:87, amount:1}
+   <materials>
+   {type:"item", id:46, amount:8, cons:false}
+   {type:"item", id:100, amount:4, cons:false}
+   {type:"item", id:59, amount:4, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:4
+   craftLevel:1
+   known:false
+  <recipe16>
+<recipe17>
+   result:{type:"armor", id:88, amount:1}
+   <materials>
+   {type:"item", id:46, amount:6, cons:false}
+   {type:"item", id:100, amount:3, cons:false}
+   {type:"item", id:59, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:5
+   craftLevel:1
+   known:false
+  <recipe17>
+<recipe18>
+   result:{type:"armor", id:89, amount:1}
+   <materials>
+   {type:"item", id:46, amount:4, cons:false}
+   {type:"item", id:100, amount:2, cons:false}
+   {type:"item", id:59, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:5
+   craftLevel:1
+   known:false
+  <recipe18>
+<recipe19>
+   result:{type:"item", id:114, amount:1}
+   <materials>
+   {type:"item", id:94, amount:2, cons:false}
+   {type:"item", id:66, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:1
+   craftLevel:1
+   known:false
+  <recipe19>
+<recipe20>
+   result:{type:"item", id:115, amount:1}
+   <materials>
+   {type:"item", id:95, amount:2, cons:false}
+   {type:"item", id:66, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:1
+   craftLevel:1
+   known:false
+  <recipe20>
+<recipe21>
+   result:{type:"item", id:116, amount:1}
+   <materials>
+   {type:"item", id:94, amount:2, cons:false}
+   {type:"item", id:95, amount:2, cons:false}
+   {type:"item", id:66, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe21>
+<recipe22>
+   result:{type:"item", id:117, amount:1}
+   <materials>
+   {type:"item", id:94, amount:4, cons:false}
+   {type:"item", id:66, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe22>
+<recipe23>
+   result:{type:"item", id:118, amount:1}
+   <materials>
+   {type:"item", id:95, amount:4, cons:false}
+   {type:"item", id:66, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe23>
+<recipe24>
+   result:{type:"item", id:119, amount:1}
+   <materials>
+   {type:"item", id:94, amount:4, cons:false}
+   {type:"item", id:95, amount:4, cons:false}
+   {type:"item", id:66, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:1
+   known:false
+  <recipe24>
+<recipe25>
+   result:{type:"item", id:126, amount:1}
+   <materials>
+   {type:"item", id:94, amount:5, cons:false}
+   {type:"item", id:95, amount:5, cons:false}
+   {type:"item", id:129, amount:1, cons:false}
+   {type:"item", id:66, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:1
+   known:false
+  <recipe25>
+<recipe26>
+   result:{type:"item", id:129, amount:1}
+   <materials>
+   {type:"item", id:89, amount:5, cons:false}
+   {type:"item", id:128, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:1
+   known:false
+  <recipe26>
+<recipe27>
+   result:{type:"item", id:128, amount:1}
+   <materials>
+   {type:"item", id:44, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:1
+   craftLevel:1
+   known:false
+  <recipe27>
+<recipe28>
+   result:{type:"item", id:89, amount:1}
+   <materials>
+   {type:"item", id:47, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:1
+   craftLevel:1
+   known:false
+  <recipe28>
+<recipe29>
+   result:{type:"item", id:132, amount:1}
+   <materials>
+   {type:"item", id:89, amount:3, cons:false}
+   {type:"item", id:128, amount:3, cons:false}
+   {type:"item", id:46, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:1
+   craftLevel:1
+   known:false
+  <recipe29>
+<recipe30>
+   result:{type:"item", id:156, amount:1}
+   <materials>
+   {type:"item", id:68, amount:1, cons:false}
+   {type:"item", id:113, amount:1, cons:false}
+   {type:"item", id:56, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:3
+   craftLevel:1
+   known:false
+  <recipe30>
+<recipe31>
+   result:{type:"item", id:173, amount:1}
+   <materials>
+   {type:"item", id:185, amount:2, cons:false}
+   {type:"item", id:191, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe31>
+<recipe32>
+   result:{type:"item", id:174, amount:1}
+   <materials>
+   {type:"item", id:186, amount:2, cons:false}
+   {type:"item", id:191, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe32>
+<recipe33>
+   result:{type:"item", id:175, amount:1}
+   <materials>
+   {type:"item", id:185, amount:2, cons:false}
+   {type:"item", id:186, amount:2, cons:false}
+   {type:"item", id:191, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:2
+   known:false
+  <recipe33>
+<recipe34>
+   result:{type:"item", id:176, amount:1}
+   <materials>
+   {type:"item", id:185, amount:4, cons:false}
+   {type:"item", id:191, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe34>
+<recipe35>
+   result:{type:"item", id:177, amount:1}
+   <materials>
+   {type:"item", id:186, amount:4, cons:false}
+   {type:"item", id:191, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe35>
+<recipe36>
+   result:{type:"item", id:178, amount:1}
+   <materials>
+   {type:"item", id:185, amount:4, cons:false}
+   {type:"item", id:186, amount:4, cons:false}
+   {type:"item", id:191, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:2
+   known:false
+  <recipe36>
+<recipe37>
+   result:{type:"armor", id:102, amount:1}
+   <materials>
+   {type:"item", id:45, amount:6, cons:false}
+   {type:"item", id:94, amount:4, cons:false}
+   {type:"item", id:58, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:1
+   craftLevel:1
+   known:false
+  <recipe37>
+<recipe38>
+   result:{type:"armor", id:103, amount:1}
+   <materials>
+   {type:"item", id:45, amount:5, cons:false}
+   {type:"item", id:94, amount:4, cons:false}
+   {type:"item", id:58, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:1
+   craftLevel:1
+   known:false
+  <recipe38>
+<recipe39>
+   result:{type:"item", id:210, amount:1}
+   <materials>
+   {type:"item", id:188, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:1
+   craftLevel:2
+   known:false
+  <recipe39>
+<recipe40>
+   result:{type:"item", id:211, amount:1}
+   <materials>
+   {type:"item", id:95, amount:2, cons:false}
+   {type:"item", id:198, amount:2, cons:false}
+   {type:"item", id:66, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:1
+   known:false
+  <recipe40>
+<recipe41>
+   result:{type:"item", id:219, amount:1}
+   <materials>
+   {type:"item", id:218, amount:1, cons:false}
+   {type:"item", id:61, amount:1, cons:false}
+   {type:"item", id:56, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:3
+   craftLevel:1
+   known:false
+  <recipe41>
+<recipe42>
+   result:{type:"armor", id:96, amount:1}
+   <materials>
+   {type:"item", id:44, amount:3, cons:false}
+   {type:"item", id:46, amount:5, cons:false}
+   {type:"item", id:128, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:3
+   craftLevel:1
+   known:false
+  <recipe42>
+<recipe43>
+   result:{type:"armor", id:120, amount:1}
+   <materials>
+   {type:"item", id:44, amount:5, cons:false}
+   {type:"item", id:46, amount:7, cons:false}
+   {type:"item", id:128, amount:7, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:3
+   craftLevel:1
+   known:false
+  <recipe43>
+<recipe44>
+   result:{type:"armor", id:129, amount:1}
+   <materials>
+   {type:"item", id:187, amount:3, cons:false}
+   {type:"item", id:189, amount:5, cons:false}
+   {type:"item", id:128, amount:7, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:4
+   craftLevel:2
+   known:false
+  <recipe44>
+<recipe45>
+   result:{type:"armor", id:130, amount:1}
+   <materials>
+   {type:"item", id:44, amount:5, cons:false}
+   {type:"item", id:46, amount:5, cons:false}
+   {type:"item", id:128, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:3
+   craftLevel:1
+   known:false
+  <recipe45>
+<recipe46>
+   result:{type:"armor", id:131, amount:1}
+   <materials>
+   {type:"item", id:44, amount:7, cons:false}
+   {type:"item", id:46, amount:7, cons:false}
+   {type:"item", id:128, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:3
+   craftLevel:1
+   known:false
+  <recipe46>
+<recipe47>
+   result:{type:"armor", id:132, amount:1}
+   <materials>
+   {type:"item", id:188, amount:5, cons:false}
+   {type:"item", id:189, amount:7, cons:false}
+   {type:"item", id:128, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:4
+   craftLevel:2
+   known:false
+  <recipe47>
+<recipe48>
+   result:{type:"weapon", id:113, amount:1}
+   <materials>
+   {type:"item", id:227, amount:1, cons:false}
+   {type:"item", id:240, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe48>
+<recipe49>
+   result:{type:"weapon", id:114, amount:1}
+   <materials>
+   {type:"item", id:229, amount:1, cons:false}
+   {type:"item", id:240, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe49>
+<recipe50>
+   result:{type:"item", id:247, amount:1}
+   <materials>
+   {type:"item", id:94, amount:1, cons:false}
+   {type:"item", id:227, amount:1, cons:false}
+   {type:"item", id:240, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe50>
+<recipe51>
+   result:{type:"item", id:248, amount:1}
+   <materials>
+   {type:"item", id:95, amount:1, cons:false}
+   {type:"item", id:227, amount:1, cons:false}
+   {type:"item", id:240, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe51>
+<recipe52>
+   result:{type:"item", id:249, amount:1}
+   <materials>
+   {type:"item", id:185, amount:1, cons:false}
+   {type:"item", id:229, amount:1, cons:false}
+   {type:"item", id:240, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe52>
+<recipe53>
+   result:{type:"item", id:250, amount:1}
+   <materials>
+   {type:"item", id:186, amount:1, cons:false}
+   {type:"item", id:229, amount:1, cons:false}
+   {type:"item", id:240, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe53>
+<recipe54>
+   result:{type:"item", id:251, amount:1}
+   <materials>
+   {type:"item", id:44, amount:3, cons:false}
+   {type:"item", id:47, amount:3, cons:false}
+   {type:"item", id:57, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe54>
+<recipe55>
+   result:{type:"item", id:252, amount:1}
+   <materials>
+   {type:"item", id:44, amount:6, cons:false}
+   {type:"item", id:47, amount:6, cons:false}
+   {type:"item", id:57, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:3
+   craftLevel:1
+   known:false
+  <recipe55>
+<recipe56>
+   result:{type:"item", id:253, amount:1}
+   <materials>
+   {type:"item", id:187, amount:3, cons:false}
+   {type:"item", id:190, amount:3, cons:false}
+   {type:"item", id:236, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe56>
+<recipe57>
+   result:{type:"item", id:254, amount:1}
+   <materials>
+   {type:"item", id:187, amount:6, cons:false}
+   {type:"item", id:190, amount:6, cons:false}
+   {type:"item", id:236, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe57>
+<recipe58>
+   result:{type:"item", id:263, amount:1}
+   <materials>
+   {type:"item", id:187, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:1
+   craftLevel:2
+   known:false
+  <recipe58>
+<recipe59>
+   result:{type:"item", id:262, amount:1}
+   <materials>
+   {type:"item", id:190, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:1
+   craftLevel:2
+   known:false
+  <recipe59>
+<recipe60>
+   result:{type:"item", id:259, amount:1}
+   <materials>
+   {type:"item", id:262, amount:3, cons:false}
+   {type:"item", id:263, amount:3, cons:false}
+   {type:"item", id:189, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:1
+   craftLevel:2
+   known:false
+  <recipe60>
+<recipe61>
+   result:{type:"item", id:264, amount:1}
+   <materials>
+   {type:"item", id:262, amount:3, cons:false}
+   {type:"item", id:263, amount:3, cons:false}
+   {type:"item", id:187, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:1
+   craftLevel:2
+   known:false
+  <recipe61>
+<recipe62>
+   result:{type:"item", id:266, amount:1}
+   <materials>
+   {type:"item", id:100, amount:1, cons:false}
+   {type:"item", id:227, amount:1, cons:false}
+   {type:"item", id:240, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:1
+   craftLevel:1
+   known:false
+  <recipe62>
+<recipe63>
+   result:{type:"item", id:269, amount:1}
+   <materials>
+   {type:"item", id:218, amount:1, cons:false}
+   {type:"item", id:83, amount:1, cons:false}
+   {type:"item", id:235, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe63>
+<recipe64>
+   result:{type:"item", id:286, amount:1}
+   <materials>
+   {type:"item", id:227, amount:1, cons:false}
+   {type:"item", id:47, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:1
+   craftLevel:1
+   known:false
+  <recipe64>
+<recipe65>
+   result:{type:"item", id:287, amount:1}
+   <materials>
+   {type:"item", id:227, amount:2, cons:false}
+   {type:"item", id:47, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:1
+   craftLevel:1
+   known:false
+  <recipe65>
+<recipe66>
+   result:{type:"item", id:288, amount:1}
+   <materials>
+   {type:"item", id:229, amount:1, cons:false}
+   {type:"item", id:190, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:1
+   craftLevel:2
+   known:false
+  <recipe66>
+<recipe67>
+   result:{type:"item", id:289, amount:1}
+   <materials>
+   {type:"item", id:229, amount:2, cons:false}
+   {type:"item", id:190, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:1
+   craftLevel:2
+   known:false
+  <recipe67>
+<recipe68>
+   result:{type:"weapon", id:134, amount:1}
+   <materials>
+   {type:"item", id:187, amount:10, cons:false}
+   {type:"item", id:230, amount:2, cons:false}
+   {type:"item", id:294, amount:1, cons:false}
+   {type:"item", id:236, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:1
+   craftLevel:2
+   known:false
+  <recipe68>
+<recipe69>
+   result:{type:"armor", id:153, amount:1}
+   <materials>
+   {type:"item", id:188, amount:10, cons:false}
+   {type:"item", id:230, amount:2, cons:false}
+   {type:"item", id:294, amount:1, cons:false}
+   {type:"item", id:237, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:1
+   craftLevel:2
+   known:false
+  <recipe69>
+<recipe70>
+   result:{type:"armor", id:166, amount:1}
+   <materials>
+   {type:"item", id:188, amount:6, cons:false}
+   {type:"item", id:237, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe70>
+<recipe71>
+   result:{type:"armor", id:168, amount:1}
+   <materials>
+   {type:"item", id:188, amount:6, cons:false}
+   {type:"item", id:237, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe71>
+<recipe72>
+   result:{type:"armor", id:164, amount:1}
+   <materials>
+   {type:"item", id:188, amount:10, cons:false}
+   {type:"item", id:237, amount:4, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe72>
+<recipe73>
+   result:{type:"armor", id:171, amount:1}
+   <materials>
+   {type:"item", id:188, amount:8, cons:false}
+   {type:"item", id:129, amount:2, cons:false}
+   {type:"item", id:229, amount:4, cons:false}
+   {type:"item", id:237, amount:4, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:4
+   craftLevel:2
+   known:false
+  <recipe73>
+<recipe74>
+   result:{type:"armor", id:167, amount:1}
+   <materials>
+   {type:"item", id:188, amount:6, cons:false}
+   {type:"item", id:238, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe74>
+<recipe75>
+   result:{type:"armor", id:169, amount:1}
+   <materials>
+   {type:"item", id:188, amount:6, cons:false}
+   {type:"item", id:238, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe75>
+<recipe76>
+   result:{type:"armor", id:164, amount:1}
+   <materials>
+   {type:"item", id:188, amount:8, cons:false}
+   {type:"item", id:238, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe76>
+<recipe77>
+   result:{type:"armor", id:170, amount:1}
+   <materials>
+   {type:"item", id:188, amount:10, cons:false}
+   {type:"item", id:305, amount:6, cons:false}
+   {type:"item", id:229, amount:4, cons:false}
+   {type:"item", id:238, amount:4, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:4
+   craftLevel:2
+   known:false
+  <recipe77>
+<recipe78>
+   result:{type:"weapon", id:150, amount:1}
+   <materials>
+   {type:"item", id:187, amount:8, cons:false}
+   {type:"item", id:305, amount:2, cons:false}
+   {type:"item", id:236, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe78>
+<recipe79>
+   result:{type:"weapon", id:151, amount:1}
+   <materials>
+   {type:"item", id:187, amount:12, cons:false}
+   {type:"item", id:236, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe79>
+<recipe80>
+   result:{type:"weapon", id:152, amount:1}
+   <materials>
+   {type:"item", id:187, amount:12, cons:false}
+   {type:"item", id:236, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe80>
+<recipe81>
+   result:{type:"weapon", id:153, amount:1}
+   <materials>
+   {type:"item", id:187, amount:12, cons:false}
+   {type:"item", id:236, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe81>
+<recipe82>
+   result:{type:"weapon", id:155, amount:1}
+   <materials>
+   {type:"item", id:187, amount:10, cons:false}
+   {type:"item", id:306, amount:1, cons:false}
+   {type:"item", id:229, amount:4, cons:false}
+   {type:"item", id:236, amount:4, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:4
+   craftLevel:2
+   known:false
+  <recipe82>
+<recipe83>
+   result:{type:"weapon", id:156, amount:1}
+   <materials>
+   {type:"item", id:187, amount:20, cons:false}
+   {type:"item", id:190, amount:10, cons:false}
+   {type:"item", id:229, amount:4, cons:false}
+   {type:"item", id:236, amount:6, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:4
+   craftLevel:2
+   known:false
+  <recipe83>
+<recipe84>
+   result:{type:"weapon", id:154, amount:1}
+   <materials>
+   {type:"item", id:187, amount:20, cons:false}
+   {type:"item", id:259, amount:5, cons:false}
+   {type:"item", id:229, amount:4, cons:false}
+   {type:"item", id:236, amount:6, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:4
+   craftLevel:2
+   known:false
+  <recipe84>
+<recipe85>
+   result:{type:"weapon", id:162, amount:1}
+   <materials>
+   {type:"item", id:187, amount:30, cons:false}
+   {type:"item", id:254, amount:3, cons:false}
+   {type:"item", id:230, amount:3, cons:false}
+   {type:"item", id:236, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:6
+   craftLevel:2
+   known:false
+  <recipe85>
+<recipe86>
+   result:{type:"item", id:342, amount:1}
+   <materials>
+   {type:"item", id:334, amount:1, cons:false}
+   {type:"item", id:82, amount:1, cons:false}
+   {type:"item", id:235, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe86>
+<recipe87>
+   result:{type:"item", id:343, amount:1}
+   <materials>
+   {type:"item", id:335, amount:1, cons:false}
+   {type:"item", id:158, amount:1, cons:false}
+   {type:"item", id:235, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe87>
+<recipe88>
+   result:{type:"armor", id:208, amount:1}
+   <materials>
+   {type:"item", id:262, amount:5, cons:false}
+   {type:"item", id:263, amount:5, cons:false}
+   {type:"item", id:189, amount:8, cons:false}
+   {type:"item", id:230, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:4
+   craftLevel:2
+   known:false
+  <recipe88>
+<recipe89>
+   result:{type:"armor", id:208, amount:1}
+   <materials>
+   {type:"item", id:262, amount:5, cons:false}
+   {type:"item", id:263, amount:5, cons:false}
+   {type:"item", id:189, amount:8, cons:false}
+   {type:"item", id:230, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:4
+   craftLevel:2
+   known:false
+  <recipe89>
+<recipe90>
+   result:{type:"item", id:230, amount:1}
+   <materials>
+   {type:"item", id:229, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:1
+   craftLevel:2
+   known:false
+  <recipe90>
+<recipe91>
+   result:{type:"item", id:231, amount:1}
+   <materials>
+   {type:"item", id:230, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe91>
+<recipe92>
+   result:{type:"item", id:232, amount:1}
+   <materials>
+   {type:"item", id:231, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:4
+   craftLevel:2
+   known:false
+  <recipe92>
+<recipe93>
+   result:{type:"weapon", id:174, amount:1}
+   <materials>
+   {type:"weapon", id:173, amount:1, cons:false}
+   {type:"armor", id:218, amount:1, cons:false}
+   {type:"item", id:230, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:6
+   craftLevel:2
+   known:false
+  <recipe93>
+<recipe94>
+   result:{type:"weapon", id:179, amount:1}
+   <materials>
+   {type:"item", id:187, amount:1, cons:false}
+   {type:"item", id:425, amount:2, cons:false}
+   {type:"item", id:231, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:6
+   craftLevel:2
+   known:false
+  <recipe94>
+<recipe95>
+   result:{type:"item", id:439, amount:1}
+   <materials>
+   {type:"item", id:437, amount:2, cons:false}
+   {type:"item", id:191, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe95>
+<recipe96>
+   result:{type:"armor", id:248, amount:1}
+   <materials>
+   {type:"item", id:437, amount:5, cons:false}
+   {type:"armor", id:153, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:4
+   craftLevel:2
+   known:false
+  <recipe96>
+<recipe97>
+   result:{type:"item", id:449, amount:1}
+   <materials>
+   {type:"item", id:95, amount:3, cons:false}
+   {type:"item", id:452, amount:1, cons:false}
+   {type:"item", id:453, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:符箓
+   xp:1
+   craftLevel:1
+   known:false
+  <recipe97>
+<recipe98>
+   result:{type:"item", id:447, amount:1}
+   <materials>
+   {type:"item", id:94, amount:4, cons:false}
+   {type:"item", id:452, amount:1, cons:false}
+   {type:"item", id:453, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:符箓
+   xp:1
+   craftLevel:1
+   known:false
+  <recipe98>
+<recipe99>
+   result:{type:"item", id:451, amount:1}
+   <materials>
+   {type:"item", id:186, amount:5, cons:false}
+   {type:"item", id:452, amount:1, cons:false}
+   {type:"item", id:453, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:符箓
+   xp:1
+   craftLevel:2
+   known:false
+  <recipe99>
+<recipe100>
+   result:{type:"item", id:448, amount:1}
+   <materials>
+   {type:"item", id:186, amount:10, cons:false}
+   {type:"item", id:229, amount:1, cons:false}
+   {type:"item", id:452, amount:1, cons:false}
+   {type:"item", id:453, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:符箓
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe100>
+<recipe101>
+   result:{type:"item", id:450, amount:1}
+   <materials>
+   {type:"item", id:185, amount:15, cons:false}
+   {type:"item", id:229, amount:1, cons:false}
+   {type:"item", id:452, amount:1, cons:false}
+   {type:"item", id:453, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:符箓
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe101>
+<recipe102>
+   result:{type:"weapon", id:212, amount:1}
+   <materials>
+   {type:"item", id:187, amount:12, cons:false}
+   {type:"item", id:189, amount:8, cons:false}
+   {type:"item", id:236, amount:4, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe102>
+<recipe103>
+   result:{type:"weapon", id:213, amount:1}
+   <materials>
+   {type:"item", id:187, amount:6, cons:false}
+   {type:"item", id:189, amount:4, cons:false}
+   {type:"item", id:236, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe103>
+<recipe104>
+   result:{type:"weapon", id:211, amount:1}
+   <materials>
+   {type:"item", id:187, amount:12, cons:false}
+   {type:"item", id:262, amount:4, cons:false}
+   {type:"item", id:236, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe104>
+<recipe105>
+   result:{type:"weapon", id:214, amount:1}
+   <materials>
+   {type:"item", id:189, amount:8, cons:false}
+   {type:"item", id:240, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe105>
+<recipe106>
+   result:{type:"armor", id:277, amount:1}
+   <materials>
+   {type:"item", id:188, amount:6, cons:false}
+   {type:"item", id:437, amount:2, cons:false}
+   {type:"item", id:229, amount:1, cons:false}
+   {type:"item", id:237, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe106>
+<recipe107>
+   result:{type:"armor", id:274, amount:1}
+   <materials>
+   {type:"item", id:188, amount:6, cons:false}
+   {type:"item", id:229, amount:1, cons:false}
+   {type:"item", id:237, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe107>
+<recipe108>
+   result:{type:"armor", id:275, amount:1}
+   <materials>
+   {type:"item", id:189, amount:6, cons:false}
+   {type:"item", id:21, amount:2, cons:false}
+   {type:"item", id:229, amount:1, cons:false}
+   {type:"item", id:237, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe108>
+<recipe109>
+   result:{type:"armor", id:276, amount:1}
+   <materials>
+   {type:"item", id:189, amount:6, cons:false}
+   {type:"item", id:21, amount:2, cons:false}
+   {type:"item", id:229, amount:1, cons:false}
+   {type:"item", id:237, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe109>
+<recipe110>
+   result:{type:"armor", id:284, amount:1}
+   <materials>
+   {type:"item", id:188, amount:6, cons:false}
+   {type:"item", id:186, amount:4, cons:false}
+   {type:"item", id:230, amount:1, cons:false}
+   {type:"item", id:237, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe110>
+<recipe111>
+   result:{type:"armor", id:286, amount:1}
+   <materials>
+   {type:"item", id:188, amount:6, cons:false}
+   {type:"item", id:190, amount:4, cons:false}
+   {type:"item", id:230, amount:1, cons:false}
+   {type:"item", id:237, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe111>
+<recipe112>
+   result:{type:"armor", id:285, amount:1}
+   <materials>
+   {type:"item", id:189, amount:6, cons:false}
+   {type:"item", id:263, amount:6, cons:false}
+   {type:"item", id:230, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe112>
+<recipe113>
+   result:{type:"armor", id:287, amount:1}
+   <materials>
+   {type:"item", id:189, amount:6, cons:false}
+   {type:"item", id:466, amount:4, cons:false}
+   {type:"item", id:230, amount:1, cons:false}
+   {type:"item", id:238, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe113>
+<recipe114>
+   result:{type:"armor", id:288, amount:1}
+   <materials>
+   {type:"item", id:189, amount:7, cons:false}
+   {type:"item", id:437, amount:1, cons:false}
+   {type:"item", id:466, amount:1, cons:false}
+   {type:"item", id:230, amount:1, cons:false}
+   {type:"item", id:238, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe114>
+<recipe115>
+   result:{type:"weapon", id:216, amount:1}
+   <materials>
+   {type:"item", id:187, amount:8, cons:false}
+   {type:"item", id:437, amount:2, cons:false}
+   {type:"item", id:466, amount:2, cons:false}
+   {type:"item", id:230, amount:1, cons:false}
+   {type:"item", id:236, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe115>
+<recipe116>
+   result:{type:"weapon", id:222, amount:1}
+   <materials>
+   {type:"item", id:187, amount:16, cons:false}
+   {type:"item", id:332, amount:5, cons:false}
+   {type:"item", id:230, amount:1, cons:false}
+   {type:"item", id:236, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe116>
+<recipe117>
+   result:{type:"armor", id:303, amount:1}
+   <materials>
+   {type:"item", id:188, amount:12, cons:false}
+   {type:"item", id:467, amount:2, cons:false}
+   {type:"item", id:230, amount:2, cons:false}
+   {type:"item", id:237, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe117>
+<recipe118>
+   result:{type:"armor", id:304, amount:1}
+   <materials>
+   {type:"item", id:188, amount:6, cons:false}
+   {type:"item", id:467, amount:1, cons:false}
+   {type:"item", id:230, amount:2, cons:false}
+   {type:"item", id:237, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe118>
+<recipe119>
+   result:{type:"armor", id:305, amount:1}
+   <materials>
+   {type:"item", id:188, amount:6, cons:false}
+   {type:"item", id:467, amount:1, cons:false}
+   {type:"item", id:230, amount:2, cons:false}
+   {type:"item", id:237, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe119>
+<recipe120>
+   result:{type:"item", id:492, amount:1}
+   <materials>
+   {type:"item", id:466, amount:2, cons:false}
+   {type:"item", id:191, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe120>
+<recipe121>
+   result:{type:"item", id:494, amount:1}
+   <materials>
+   {type:"item", id:466, amount:3, cons:false}
+   {type:"item", id:187, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼宝
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe121>
+<recipe122>
+   result:{type:"weapon", id:228, amount:1}
+   <materials>
+   {type:"item", id:467, amount:4, cons:false}
+   {type:"item", id:491, amount:6, cons:false}
+   {type:"item", id:230, amount:4, cons:false}
+   {type:"item", id:236, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:5
+   craftLevel:3
+   known:false
+  <recipe122>
+<recipe123>
+   result:{type:"armor", id:94, amount:1}
+   <materials>
+   {type:"item", id:44, amount:3, cons:false}
+   {type:"item", id:47, amount:3, cons:false}
+   {type:"item", id:60, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe123>
+<recipe124>
+   result:{type:"armor", id:306, amount:1}
+   <materials>
+   {type:"item", id:44, amount:3, cons:false}
+   {type:"item", id:47, amount:3, cons:false}
+   {type:"item", id:60, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe124>
+<recipe125>
+   result:{type:"armor", id:308, amount:1}
+   <materials>
+   {type:"item", id:187, amount:3, cons:false}
+   {type:"item", id:190, amount:3, cons:false}
+   {type:"item", id:239, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe125>
+<recipe126>
+   result:{type:"armor", id:307, amount:1}
+   <materials>
+   {type:"item", id:187, amount:3, cons:false}
+   {type:"item", id:47, amount:3, cons:false}
+   {type:"item", id:239, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe126>
+<recipe127>
+   result:{type:"armor", id:310, amount:1}
+   <materials>
+   {type:"item", id:187, amount:8, cons:false}
+   {type:"item", id:47, amount:3, cons:false}
+   {type:"item", id:239, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe127>
+<recipe128>
+   result:{type:"armor", id:309, amount:1}
+   <materials>
+   {type:"item", id:187, amount:6, cons:false}
+   {type:"item", id:229, amount:1, cons:false}
+   {type:"item", id:239, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe128>
+<recipe129>
+   result:{type:"armor", id:311, amount:1}
+   <materials>
+   {type:"item", id:187, amount:8, cons:false}
+   {type:"item", id:491, amount:1, cons:false}
+   {type:"item", id:230, amount:1, cons:false}
+   {type:"item", id:239, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe129>
+<recipe130>
+   result:{type:"item", id:507, amount:1}
+   <materials>
+   {type:"item", id:506, amount:1, cons:false}
+   {type:"item", id:158, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe130>
+<recipe131>
+   result:{type:"item", id:509, amount:1}
+   <materials>
+   {type:"item", id:506, amount:1, cons:false}
+   {type:"item", id:229, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe131>
+<recipe132>
+   result:{type:"item", id:512, amount:1}
+   <materials>
+   {type:"item", id:229, amount:1, cons:false}
+   {type:"item", id:191, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe132>
+<recipe133>
+   result:{type:"item", id:544, amount:1}
+   <materials>
+   {type:"item", id:229, amount:5, cons:false}
+   {type:"item", id:191, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:2
+   known:false
+  <recipe133>
+<recipe134>
+   result:{type:"item", id:542, amount:1}
+   <materials>
+   {type:"item", id:229, amount:1, cons:false}
+   {type:"item", id:191, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe134>
+<recipe135>
+   result:{type:"armor", id:325, amount:1}
+   <materials>
+   {type:"item", id:551, amount:10, cons:false}
+   {type:"item", id:231, amount:1, cons:false}
+   {type:"item", id:239, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe135>
+<recipe136>
+   result:{type:"item", id:553, amount:1}
+   <materials>
+   {type:"item", id:185, amount:3, cons:false}
+   {type:"item", id:550, amount:1, cons:false}
+   {type:"item", id:191, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe136>
+<recipe137>
+   result:{type:"item", id:557, amount:1}
+   <materials>
+   {type:"item", id:558, amount:1, cons:false}
+   {type:"item", id:230, amount:1, cons:false}
+   {type:"item", id:240, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe137>
+<recipe138>
+   result:{type:"item", id:562, amount:1}
+   <materials>
+   {type:"item", id:346, amount:1, cons:false}
+   {type:"item", id:158, amount:2, cons:false}
+   {type:"item", id:235, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe138>
+<recipe139>
+   result:{type:"item", id:563, amount:1}
+   <materials>
+   {type:"item", id:347, amount:1, cons:false}
+   {type:"item", id:158, amount:3, cons:false}
+   {type:"item", id:235, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe139>
+<recipe140>
+   result:{type:"item", id:568, amount:1}
+   <materials>
+   {type:"item", id:566, amount:1, cons:false}
+   {type:"item", id:158, amount:2, cons:false}
+   {type:"item", id:61, amount:1, cons:false}
+   {type:"item", id:235, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe140>
+<recipe141>
+   result:{type:"item", id:569, amount:1}
+   <materials>
+   {type:"item", id:567, amount:1, cons:false}
+   {type:"item", id:158, amount:2, cons:false}
+   {type:"item", id:83, amount:1, cons:false}
+   {type:"item", id:235, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe141>
+<recipe142>
+   result:{type:"armor", id:338, amount:1}
+   <materials>
+   {type:"item", id:577, amount:99, cons:false}
+   {type:"item", id:189, amount:20, cons:false}
+   {type:"item", id:232, amount:1, cons:false}
+   {type:"item", id:239, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:10
+   craftLevel:2
+   known:false
+  <recipe142>
+<recipe143>
+   result:{type:"item", id:582, amount:1}
+   <materials>
+   {type:"item", id:577, amount:10, cons:false}
+   {type:"item", id:437, amount:3, cons:false}
+   {type:"item", id:229, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼宝
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe143>
+<recipe144>
+   result:{type:"armor", id:358, amount:1}
+   <materials>
+   {type:"item", id:463, amount:6, cons:false}
+   {type:"item", id:529, amount:3, cons:false}
+   {type:"item", id:518, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe144>
+<recipe145>
+   result:{type:"armor", id:360, amount:1}
+   <materials>
+   {type:"item", id:463, amount:5, cons:false}
+   {type:"item", id:529, amount:3, cons:false}
+   {type:"item", id:518, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe145>
+<recipe146>
+   result:{type:"armor", id:359, amount:1}
+   <materials>
+   {type:"item", id:464, amount:6, cons:false}
+   {type:"item", id:550, amount:1, cons:false}
+   {type:"item", id:519, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe146>
+<recipe147>
+   result:{type:"armor", id:362, amount:1}
+   <materials>
+   {type:"item", id:464, amount:8, cons:false}
+   {type:"item", id:550, amount:1, cons:false}
+   {type:"item", id:519, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe147>
+<recipe148>
+   result:{type:"armor", id:357, amount:1}
+   <materials>
+   {type:"item", id:462, amount:12, cons:false}
+   {type:"item", id:465, amount:6, cons:false}
+   {type:"item", id:517, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe148>
+<recipe149>
+   result:{type:"armor", id:361, amount:1}
+   <materials>
+   {type:"item", id:462, amount:8, cons:false}
+   {type:"item", id:465, amount:4, cons:false}
+   {type:"item", id:517, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe149>
+<recipe150>
+   result:{type:"weapon", id:255, amount:1}
+   <materials>
+   {type:"item", id:462, amount:10, cons:false}
+   {type:"item", id:465, amount:6, cons:false}
+   {type:"item", id:517, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe150>
+<recipe151>
+   result:{type:"weapon", id:258, amount:1}
+   <materials>
+   {type:"item", id:462, amount:14, cons:false}
+   {type:"item", id:517, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe151>
+<recipe152>
+   result:{type:"weapon", id:257, amount:1}
+   <materials>
+   {type:"item", id:588, amount:2, cons:false}
+   {type:"item", id:240, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe152>
+<recipe153>
+   result:{type:"weapon", id:256, amount:1}
+   <materials>
+
+   {type:"item", id:462, amount:10, cons:false}
+   {type:"item", id:598, amount:4, cons:false}
+   {type:"item", id:600, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe153>
+<recipe154>
+   result:{type:"item", id:599, amount:1}
+   <materials>
+
+   {type:"item", id:462, amount:1, cons:false}
+
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:1
+   craftLevel:3
+   known:false
+  <recipe154>
+<recipe155>
+   result:{type:"item", id:598, amount:1}
+   <materials>
+
+   {type:"item", id:465, amount:1, cons:false}
+
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:1
+   craftLevel:3
+   known:false
+  <recipe155>
+<recipe156>
+   result:{type:"item", id:600, amount:1}
+   <materials>
+   {type:"item", id:187, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:1
+   craftLevel:3
+   known:false
+  <recipe156>
+<recipe157>
+   result:{type:"weapon", id:264, amount:1}
+   <materials>
+   {type:"item", id:462, amount:12, cons:false}
+   {type:"item", id:588, amount:5, cons:false}
+   {type:"item", id:517, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe157>
+<recipe158>
+   result:{type:"weapon", id:265, amount:1}
+   <materials>
+   {type:"item", id:462, amount:15, cons:false}
+   {type:"item", id:465, amount:5, cons:false}
+   {type:"item", id:588, amount:5, cons:false}
+   {type:"item", id:517, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe158>
+<recipe159>
+   result:{type:"armor", id:368, amount:1}
+   <materials>
+   {type:"item", id:463, amount:10, cons:false}
+   {type:"item", id:588, amount:5, cons:false}
+   {type:"item", id:518, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe159>
+<recipe160>
+   result:{type:"armor", id:370, amount:1}
+   <materials>
+   {type:"item", id:464, amount:16, cons:false}
+   {type:"item", id:588, amount:5, cons:false}
+   {type:"item", id:519, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe160>
+<recipe161>
+   result:{type:"armor", id:369, amount:1}
+   <materials>
+   {type:"item", id:462, amount:10, cons:false}
+   {type:"item", id:588, amount:5, cons:false}
+   {type:"item", id:517, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe161>
+<recipe162>
+   result:{type:"item", id:612, amount:1}
+   <materials>
+   {type:"item", id:463, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:1
+   craftLevel:3
+   known:false
+  <recipe162>
+<recipe163>
+   result:{type:"item", id:613, amount:1}
+   <materials>
+   {type:"item", id:625, amount:2, cons:false}
+   {type:"item", id:532, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:1
+   craftLevel:3
+   known:false
+  <recipe163>
+<recipe164>
+   result:{type:"item", id:614, amount:1}
+   <materials>
+   {type:"item", id:626, amount:2, cons:false}
+   {type:"item", id:532, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:1
+   craftLevel:3
+   known:false
+  <recipe164>
+<recipe165>
+   result:{type:"item", id:615, amount:1}
+   <materials>
+   {type:"item", id:625, amount:2, cons:false}
+   {type:"item", id:626, amount:2, cons:false}
+   {type:"item", id:532, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe165>
+<recipe166>
+   result:{type:"item", id:616, amount:1}
+   <materials>
+   {type:"item", id:625, amount:4, cons:false}
+   {type:"item", id:532, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:1
+   craftLevel:3
+   known:false
+  <recipe166>
+<recipe167>
+   result:{type:"item", id:617, amount:1}
+   <materials>
+   {type:"item", id:626, amount:4, cons:false}
+   {type:"item", id:532, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:1
+   craftLevel:3
+   known:false
+  <recipe167>
+<recipe168>
+   result:{type:"item", id:618, amount:1}
+   <materials>
+   {type:"item", id:625, amount:4, cons:false}
+   {type:"item", id:626, amount:4, cons:false}
+   {type:"item", id:532, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe168>
+<recipe169>
+   result:{type:"item", id:642, amount:1}
+   <materials>
+   {type:"item", id:94, amount:1, cons:false}
+   {type:"item", id:641, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制毒
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe169>
+<recipe170>
+   result:{type:"item", id:649, amount:1}
+   <materials>
+   {type:"item", id:466, amount:1, cons:false}
+   {type:"item", id:641, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制毒
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe170>
+<recipe171>
+   result:{type:"item", id:657, amount:1}
+   <materials>
+   {type:"item", id:626, amount:5, cons:false}
+   {type:"item", id:452, amount:1, cons:false}
+   {type:"item", id:453, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:符箓
+   xp:1
+   craftLevel:3
+   known:false
+  <recipe171>
+<recipe172>
+   result:{type:"item", id:658, amount:1}
+   <materials>
+   {type:"item", id:626, amount:3, cons:false}
+   {type:"item", id:550, amount:3, cons:false}
+   {type:"item", id:452, amount:1, cons:false}
+   {type:"item", id:453, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:符箓
+   xp:1
+   craftLevel:3
+   known:false
+  <recipe172>
+<recipe173>
+   result:{type:"item", id:672, amount:1}
+   <materials>
+   {type:"item", id:626, amount:1, cons:false}
+   {type:"item", id:641, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制毒
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe173>
+<recipe174>
+   result:{type:"armor", id:418, amount:1}
+   <materials>
+   {type:"item", id:462, amount:5, cons:false}
+   {type:"item", id:703, amount:1, cons:false}
+   {type:"item", id:520, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:3
+   craftLevel:3
+   known:false
+  <recipe174>
+<recipe175>
+   result:{type:"armor", id:419, amount:1}
+   <materials>
+   {type:"item", id:462, amount:5, cons:false}
+   {type:"item", id:703, amount:1, cons:false}
+   {type:"item", id:520, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:3
+   craftLevel:3
+   known:false
+  <recipe175>
+<recipe176>
+   result:{type:"item", id:706, amount:1}
+   <materials>
+   {type:"item", id:705, amount:1, cons:false}
+   {type:"item", id:532, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe176>
+<recipe177>
+   result:{type:"weapon", id:296, amount:1}
+   <materials>
+   {type:"item", id:462, amount:15, cons:false}
+   {type:"item", id:703, amount:5, cons:false}
+   {type:"item", id:705, amount:5, cons:false}
+   {type:"item", id:589, amount:3, cons:false}
+   {type:"item", id:517, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:5
+   craftLevel:3
+   known:false
+  <recipe177>
+<recipe178>
+   result:{type:"item", id:718, amount:1}
+   <materials>
+   {type:"item", id:332, amount:1, cons:false}
+   {type:"item", id:61, amount:1, cons:false}
+   {type:"item", id:235, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe178>
+<recipe179>
+   result:{type:"item", id:732, amount:1}
+   <materials>
+   {type:"item", id:264, amount:1, cons:false}
+   {type:"item", id:550, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:1
+   craftLevel:2
+   known:false
+  <recipe179>
+<recipe180>
+   result:{type:"armor", id:484, amount:1}
+   <materials>
+   {type:"item", id:741, amount:20, cons:false}
+   {type:"item", id:590, amount:3, cons:false}
+   {type:"item", id:520, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:5
+   craftLevel:3
+   known:false
+  <recipe180>
+<recipe181>
+   result:{type:"armor", id:505, amount:1}
+   <materials>
+   {type:"item", id:745, amount:14, cons:false}
+   {type:"item", id:744, amount:6, cons:false}
+   {type:"item", id:588, amount:5, cons:false}
+   {type:"item", id:518, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:3
+   craftLevel:3
+   known:false
+  <recipe181>
+<recipe182>
+   result:{type:"armor", id:506, amount:1}
+   <materials>
+   {type:"item", id:745, amount:10, cons:false}
+   {type:"item", id:744, amount:4, cons:false}
+   {type:"item", id:588, amount:5, cons:false}
+   {type:"item", id:518, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:3
+   craftLevel:3
+   known:false
+  <recipe182>
+<recipe183>
+   result:{type:"armor", id:507, amount:1}
+   <materials>
+   {type:"item", id:745, amount:10, cons:false}
+   {type:"item", id:744, amount:4, cons:false}
+   {type:"item", id:588, amount:3, cons:false}
+   {type:"item", id:518, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:3
+   craftLevel:3
+   known:false
+  <recipe183>
+<recipe184>
+   result:{type:"armor", id:512, amount:1}
+   <materials>
+   {type:"armor", id:505, amount:1, cons:false}
+   {type:"item", id:744, amount:5, cons:false}
+   {type:"item", id:589, amount:3, cons:false}
+   {type:"item", id:518, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:3
+   craftLevel:3
+   known:false
+  <recipe184>
+<recipe185>
+   result:{type:"armor", id:513, amount:1}
+   <materials>
+   {type:"armor", id:506, amount:1, cons:false}
+   {type:"item", id:744, amount:5, cons:false}
+   {type:"item", id:589, amount:3, cons:false}
+   {type:"item", id:518, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:3
+   craftLevel:3
+   known:false
+  <recipe185>
+<recipe186>
+   result:{type:"armor", id:514, amount:1}
+   <materials>
+   {type:"armor", id:507, amount:1, cons:false}
+   {type:"item", id:744, amount:4, cons:false}
+   {type:"item", id:588, amount:5, cons:false}
+   {type:"item", id:518, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:3
+   craftLevel:3
+   known:false
+  <recipe186>
+<recipe187>
+   result:{type:"item", id:753, amount:1}
+   <materials>
+   {type:"item", id:751, amount:1, cons:false}
+   {type:"item", id:332, amount:1, cons:false}
+   {type:"item", id:158, amount:1, cons:false}
+   {type:"item", id:516, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe187>
+<recipe188>
+   result:{type:"item", id:754, amount:1}
+   <materials>
+   {type:"item", id:752, amount:1, cons:false}
+   {type:"item", id:158, amount:1, cons:false}
+   {type:"item", id:516, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe188>
+<recipe189>
+   result:{type:"item", id:757, amount:1}
+   <materials>
+   {type:"item", id:751, amount:5, cons:false}
+   {type:"item", id:61, amount:1, cons:false}
+   {type:"item", id:81, amount:1, cons:false}
+   {type:"item", id:82, amount:1, cons:false}
+   {type:"item", id:83, amount:1, cons:false}
+   {type:"item", id:588, amount:1, cons:false}
+   {type:"item", id:516, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:5
+   craftLevel:3
+   known:false
+  <recipe189>
+<recipe190>
+   result:{type:"item", id:761, amount:1}
+   <materials>
+   {type:"item", id:759, amount:1, cons:false}
+   {type:"item", id:81, amount:1, cons:false}
+   {type:"item", id:516, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe190>
+<recipe191>
+   result:{type:"item", id:762, amount:1}
+   <materials>
+   {type:"item", id:760, amount:1, cons:false}
+   {type:"item", id:83, amount:1, cons:false}
+   {type:"item", id:158, amount:1, cons:false}
+   {type:"item", id:516, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe191>
+<recipe192>
+   result:{type:"item", id:780, amount:1}
+   <materials>
+   {type:"item", id:204, amount:1, cons:false}
+   {type:"item", id:216, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:2
+   craftLevel:2
+   known:false
+  <recipe192>
+<recipe193>
+   result:{type:"armor", id:575, amount:1}
+   <materials>
+   {type:"item", id:463, amount:15, cons:false}
+   {type:"item", id:744, amount:5, cons:false}
+   {type:"item", id:745, amount:5, cons:false}
+   {type:"item", id:589, amount:3, cons:false}
+   {type:"item", id:518, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:3
+   craftLevel:3
+   known:false
+  <recipe193>
+<recipe194>
+   result:{type:"armor", id:576, amount:1}
+   <materials>
+   {type:"item", id:463, amount:12, cons:false}
+   {type:"item", id:744, amount:4, cons:false}
+   {type:"item", id:745, amount:4, cons:false}
+   {type:"item", id:589, amount:3, cons:false}
+   {type:"item", id:518, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:3
+   craftLevel:3
+   known:false
+  <recipe194>
+<recipe195>
+   result:{type:"armor", id:577, amount:1}
+   <materials>
+   {type:"item", id:463, amount:10, cons:false}
+   {type:"item", id:744, amount:4, cons:false}
+   {type:"item", id:745, amount:4, cons:false}
+   {type:"item", id:589, amount:3, cons:false}
+   {type:"item", id:518, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:3
+   craftLevel:3
+   known:false
+  <recipe195>
+<recipe196>
+   result:{type:"armor", id:578, amount:1}
+   <materials>
+   {type:"item", id:463, amount:10, cons:false}
+   {type:"item", id:744, amount:4, cons:false}
+   {type:"item", id:745, amount:4, cons:false}
+   {type:"item", id:589, amount:3, cons:false}
+   {type:"item", id:518, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:3
+   craftLevel:3
+   known:false
+  <recipe196>
+<recipe197>
+   result:{type:"item", id:798, amount:1}
+   <materials>
+   {type:"item", id:744, amount:1, cons:false}
+   {type:"item", id:588, amount:1, cons:false}
+   {type:"item", id:532, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe197>
+<recipe198>
+   result:{type:"item", id:627, amount:1}
+   <materials>
+   {type:"item", id:588, amount:1, cons:false}
+   {type:"item", id:465, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe198>
+<recipe199>
+   result:{type:"item", id:628, amount:1}
+   <materials>
+   {type:"item", id:588, amount:2, cons:false}
+   {type:"item", id:465, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe199>
+<recipe200>
+   result:{type:"item", id:634, amount:1}
+   <materials>
+   {type:"item", id:462, amount:3, cons:false}
+   {type:"item", id:465, amount:3, cons:false}
+   {type:"item", id:517, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe200>
+<recipe201>
+   result:{type:"item", id:635, amount:1}
+   <materials>
+   {type:"item", id:462, amount:6, cons:false}
+   {type:"item", id:465, amount:6, cons:false}
+   {type:"item", id:517, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe201>
+<recipe202>
+   result:{type:"weapon", id:385, amount:1}
+   <materials>
+   {type:"weapon", id:179, amount:1, cons:false}
+   {type:"item", id:803, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe202>
+<recipe203>
+   result:{type:"item", id:819, amount:1}
+   <materials>
+   {type:"item", id:771, amount:1, cons:false}
+   {type:"item", id:588, amount:1, cons:false}
+   {type:"item", id:532, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe203>
+<recipe204>
+   result:{type:"item", id:825, amount:1}
+   <materials>
+   {type:"item", id:185, amount:4, cons:false}
+   {type:"item", id:452, amount:1, cons:false}
+   {type:"item", id:453, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:符箓
+   xp:1
+   craftLevel:2
+   known:false
+  <recipe204>
+<recipe205>
+   result:{type:"item", id:823, amount:1}
+   <materials>
+   {type:"item", id:94, amount:1, cons:false}
+   {type:"item", id:95, amount:1, cons:false}
+   {type:"item", id:452, amount:1, cons:false}
+   {type:"item", id:453, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:符箓
+   xp:1
+   craftLevel:1
+   known:false
+  <recipe205>
+<recipe206>
+   result:{type:"item", id:824, amount:1}
+   <materials>
+   {type:"item", id:185, amount:5, cons:false}
+   {type:"item", id:186, amount:5, cons:false}
+   {type:"item", id:227, amount:1, cons:false}
+   {type:"item", id:452, amount:1, cons:false}
+   {type:"item", id:453, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:符箓
+   xp:1
+   craftLevel:2
+   known:false
+  <recipe206>
+<recipe207>
+   result:{type:"item", id:826, amount:1}
+   <materials>
+   {type:"item", id:626, amount:4, cons:false}
+   {type:"item", id:452, amount:1, cons:false}
+   {type:"item", id:453, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:符箓
+   xp:1
+   craftLevel:3
+   known:false
+  <recipe207>
+<recipe208>
+   result:{type:"weapon", id:398, amount:1}
+   <materials>
+   {type:"item", id:600, amount:20, cons:false}
+   {type:"item", id:599, amount:10, cons:false}
+   {type:"item", id:598, amount:10, cons:false}
+   {type:"item", id:589, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:6
+   craftLevel:3
+   known:false
+  <recipe208>
+<recipe209>
+   result:{type:"weapon", id:399, amount:1}
+   <materials>
+   {type:"item", id:600, amount:15, cons:false}
+   {type:"item", id:599, amount:15, cons:false}
+   {type:"item", id:598, amount:15, cons:false}
+   {type:"item", id:844, amount:15, cons:false}
+   {type:"item", id:589, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:6
+   craftLevel:3
+   known:false
+  <recipe209>
+<recipe210>
+   result:{type:"item", id:873, amount:1}
+   <materials>
+   {type:"item", id:705, amount:2, cons:false}
+   {type:"item", id:589, amount:1, cons:false}
+   {type:"item", id:240, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:3
+   craftLevel:3
+   known:false
+  <recipe210>
+<recipe211>
+   result:{type:"armor", id:703, amount:1}
+   <materials>
+   {type:"item", id:885, amount:10, cons:false}
+   {type:"item", id:787, amount:5, cons:false}
+   {type:"item", id:306, amount:5, cons:false}
+   {type:"item", id:523, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:8
+   craftLevel:4
+   known:false
+  <recipe211>
+<recipe212>
+   result:{type:"armor", id:707, amount:1}
+   <materials>
+   {type:"item", id:886, amount:8, cons:false}
+   {type:"item", id:787, amount:3, cons:false}
+   {type:"item", id:524, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:5
+   craftLevel:4
+   known:false
+  <recipe212>
+<recipe213>
+   result:{type:"armor", id:705, amount:1}
+   <materials>
+   {type:"item", id:887, amount:8, cons:false}
+   {type:"item", id:787, amount:3, cons:false}
+   {type:"item", id:525, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:5
+   craftLevel:4
+   known:false
+  <recipe213>
+<recipe214>
+   result:{type:"weapon", id:437, amount:1}
+   <materials>
+   {type:"item", id:885, amount:12, cons:false}
+   {type:"item", id:787, amount:3, cons:false}
+   {type:"item", id:523, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:8
+   craftLevel:4
+   known:false
+  <recipe214>
+<recipe215>
+   result:{type:"weapon", id:438, amount:1}
+   <materials>
+   {type:"item", id:895, amount:6, cons:false}
+   {type:"item", id:894, amount:6, cons:false}
+   {type:"item", id:893, amount:6, cons:false}
+   {type:"item", id:787, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:8
+   craftLevel:4
+   known:false
+  <recipe215>
+<recipe216>
+   result:{type:"weapon", id:439, amount:1}
+   <materials>
+   {type:"item", id:240, amount:10, cons:false}
+   {type:"item", id:705, amount:5, cons:false}
+   {type:"item", id:703, amount:5, cons:false}
+   {type:"item", id:787, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:8
+   craftLevel:4
+   known:false
+  <recipe216>
+<recipe217>
+   result:{type:"item", id:894, amount:1}
+   <materials>
+   {type:"item", id:885, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:2
+   craftLevel:4
+   known:false
+  <recipe217>
+<recipe218>
+   result:{type:"item", id:895, amount:1}
+   <materials>
+   {type:"item", id:885, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:2
+   craftLevel:4
+   known:false
+  <recipe218>
+<recipe219>
+   result:{type:"item", id:893, amount:1}
+   <materials>
+   {type:"item", id:888, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:2
+   craftLevel:4
+   known:false
+  <recipe219>
+<recipe220>
+   result:{type:"item", id:955, amount:1}
+   <materials>
+   {type:"item", id:951, amount:2, cons:false}
+   {type:"item", id:533, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:4
+   known:false
+  <recipe220>
+<recipe221>
+   result:{type:"item", id:956, amount:1}
+   <materials>
+   {type:"item", id:952, amount:2, cons:false}
+   {type:"item", id:533, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:4
+   known:false
+  <recipe221>
+<recipe222>
+   result:{type:"item", id:957, amount:1}
+   <materials>
+   {type:"item", id:951, amount:2, cons:false}
+   {type:"item", id:952, amount:2, cons:false}
+   {type:"item", id:533, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:4
+   known:false
+  <recipe222>
+<recipe223>
+   result:{type:"item", id:958, amount:1}
+   <materials>
+   {type:"item", id:951, amount:3, cons:false}
+   {type:"item", id:533, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:5
+   known:false
+  <recipe223>
+<recipe224>
+   result:{type:"item", id:959, amount:1}
+   <materials>
+   {type:"item", id:952, amount:3, cons:false}
+   {type:"item", id:533, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:5
+   known:false
+  <recipe224>
+<recipe225>
+   result:{type:"item", id:960, amount:1}
+   <materials>
+   {type:"item", id:951, amount:3, cons:false}
+   {type:"item", id:952, amount:3, cons:false}
+   {type:"item", id:533, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:5
+   known:false
+  <recipe225>
+<recipe226>
+   result:{type:"item", id:954, amount:1}
+   <materials>
+   {type:"item", id:893, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:4
+   craftLevel:4
+   known:false
+  <recipe226>
+<recipe227>
+   result:{type:"item", id:975, amount:1}
+   <materials>
+   {type:"item", id:885, amount:3, cons:false}
+   {type:"item", id:888, amount:3, cons:false}
+   {type:"item", id:787, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:4
+   known:false
+  <recipe227>
+<recipe228>
+   result:{type:"item", id:976, amount:1}
+   <materials>
+   {type:"item", id:885, amount:6, cons:false}
+   {type:"item", id:888, amount:6, cons:false}
+   {type:"item", id:787, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:4
+   known:false
+  <recipe228>
+<recipe229>
+   result:{type:"item", id:979, amount:1}
+   <materials>
+   {type:"item", id:787, amount:3, cons:false}
+   {type:"item", id:888, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:2
+   craftLevel:4
+   known:false
+  <recipe229>
+<recipe230>
+   result:{type:"item", id:980, amount:1}
+   <materials>
+   {type:"item", id:787, amount:6, cons:false}
+   {type:"item", id:888, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:附魔
+   xp:2
+   craftLevel:4
+   known:false
+  <recipe230>
+<recipe231>
+   result:{type:"armor", id:802, amount:1}
+   <materials>
+   {type:"item", id:1140, amount:6, cons:false}
+   {type:"item", id:888, amount:12, cons:false}
+   {type:"item", id:984, amount:5, cons:false}
+   {type:"item", id:789, amount:1, cons:false}
+   {type:"item", id:523, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:2
+   craftLevel:4
+   known:false
+  <recipe231>
+<recipe232>
+   result:{type:"weapon", id:489, amount:1}
+   <materials>
+   {type:"item", id:1140, amount:20, cons:false}
+   {type:"item", id:993, amount:5, cons:false}
+   {type:"item", id:984, amount:10, cons:false}
+   {type:"item", id:523, amount:10, cons:false}
+   {type:"item", id:790, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:15
+   craftLevel:6
+   known:false
+  <recipe232>
+<recipe233>
+   result:{type:"weapon", id:490, amount:1}
+   <materials>
+   {type:"item", id:1140, amount:20, cons:false}
+   {type:"item", id:993, amount:2, cons:false}
+   {type:"item", id:803, amount:1, cons:false}
+   {type:"item", id:984, amount:7, cons:false}
+   {type:"item", id:523, amount:10, cons:false}
+   {type:"item", id:790, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:15
+   craftLevel:6
+   known:false
+  <recipe233>
+<recipe234>
+   result:{type:"item", id:1009, amount:1}
+   <materials>
+   {type:"item", id:1008, amount:1, cons:false}
+   {type:"item", id:522, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:2
+   craftLevel:4
+   known:false
+  <recipe234>
+<recipe235>
+   result:{type:"item", id:1010, amount:1}
+   <materials>
+   {type:"item", id:1008, amount:1, cons:false}
+   {type:"item", id:787, amount:1, cons:false}
+   {type:"item", id:158, amount:1, cons:false}
+   {type:"item", id:522, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:烹饪
+   xp:2
+   craftLevel:5
+   known:false
+  <recipe235>
+<recipe236>
+   result:{type:"weapon", id:521, amount:1}
+   <materials>
+   {type:"item", id:894, amount:15, cons:false}
+   {type:"item", id:895, amount:15, cons:false}
+   {type:"item", id:993, amount:1, cons:false}
+   {type:"item", id:788, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:5
+   craftLevel:4
+   known:false
+  <recipe236>
+<recipe237>
+   result:{type:"item", id:1045, amount:1}
+   <materials>
+   {type:"item", id:887, amount:2, cons:false}
+   {type:"item", id:525, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:2
+   craftLevel:4
+   known:false
+  <recipe237>
+<recipe238>
+   result:{type:"item", id:1046, amount:1}
+   <materials>
+   {type:"item", id:887, amount:2, cons:false}
+   {type:"item", id:787, amount:1, cons:false}
+   {type:"item", id:525, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:2
+   craftLevel:4
+   known:false
+  <recipe238>
+<recipe239>
+   result:{type:"item", id:1047, amount:1}
+   <materials>
+   {type:"item", id:887, amount:2, cons:false}
+   {type:"item", id:987, amount:1, cons:false}
+   {type:"item", id:788, amount:1, cons:false}
+   {type:"item", id:1128, amount:1, cons:false}
+   {type:"item", id:525, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:2
+   craftLevel:4
+   known:false
+  <recipe239>
+<recipe240>
+   result:{type:"item", id:1048, amount:1}
+   <materials>
+   {type:"item", id:887, amount:2, cons:false}
+   {type:"item", id:988, amount:1, cons:false}
+   {type:"item", id:1128, amount:1, cons:false}
+   {type:"item", id:789, amount:1, cons:false}
+   {type:"item", id:525, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:2
+   craftLevel:5
+   known:false
+  <recipe240>
+<recipe241>
+   result:{type:"item", id:1067, amount:1}
+   <materials>
+   {type:"item", id:787, amount:3, cons:false}
+   {type:"item", id:452, amount:1, cons:false}
+   {type:"item", id:1129, amount:1, cons:false}
+   {type:"item", id:453, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:符箓
+   xp:1
+   craftLevel:4
+   known:false
+  <recipe241>
+<recipe242>
+   result:{type:"item", id:1069, amount:1}
+   <materials>
+   {type:"item", id:787, amount:3, cons:false}
+   {type:"item", id:452, amount:1, cons:false}
+   {type:"item", id:1129, amount:1, cons:false}
+   {type:"item", id:453, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:符箓
+   xp:1
+   craftLevel:4
+   known:false
+  <recipe242>
+<recipe243>
+   result:{type:"item", id:1079, amount:1}
+   <materials>
+   {type:"item", id:1005, amount:1, cons:false}
+   {type:"item", id:1091, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:8
+   known:false
+  <recipe243>
+<recipe244>
+   result:{type:"item", id:1080, amount:1}
+   <materials>
+   {type:"item", id:787, amount:1, cons:false}
+   {type:"item", id:1279, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:8
+   known:false
+  <recipe244>
+<recipe245>
+   result:{type:"item", id:1081, amount:1}
+   <materials>
+   {type:"item", id:787, amount:1, cons:false}
+   {type:"item", id:959, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:8
+   known:false
+  <recipe245>
+<recipe246>
+   result:{type:"item", id:1082, amount:1}
+   <materials>
+   {type:"item", id:1002, amount:1, cons:false}
+   {type:"item", id:787, amount:1, cons:false}
+   {type:"item", id:1091, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:8
+   known:false
+  <recipe246>
+<recipe247>
+   result:{type:"item", id:1083, amount:1}
+   <materials>
+   {type:"item", id:1003, amount:1, cons:false}
+   {type:"item", id:787, amount:1, cons:false}
+   {type:"item", id:1091, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:8
+   known:false
+  <recipe247>
+<recipe248>
+   result:{type:"item", id:1084, amount:1}
+   <materials>
+   {type:"item", id:1018, amount:1, cons:false}
+   {type:"item", id:787, amount:1, cons:false}
+   {type:"item", id:1091, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:8
+   known:false
+  <recipe248>
+<recipe249>
+   result:{type:"item", id:1092, amount:1}
+   <materials>
+   {type:"item", id:888, amount:5, cons:false}
+   {type:"item", id:787, amount:1, cons:false}
+   {type:"item", id:526, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe249>
+<recipe250>
+   result:{type:"item", id:1093, amount:1}
+   <materials>
+   {type:"item", id:888, amount:5, cons:false}
+   {type:"item", id:787, amount:1, cons:false}
+   {type:"item", id:526, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe250>
+<recipe251>
+   result:{type:"item", id:1094, amount:1}
+   <materials>
+   {type:"item", id:888, amount:5, cons:false}
+   {type:"item", id:787, amount:1, cons:false}
+   {type:"item", id:526, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:2
+   craftLevel:1
+   known:false
+  <recipe251>
+<recipe252>
+   result:{type:"item", id:1122, amount:1}
+   <materials>
+   {type:"item", id:462, amount:3, cons:false}
+   {type:"item", id:588, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:2
+   craftLevel:3
+   known:false
+  <recipe252>
+<recipe253>
+   result:{type:"item", id:187, amount:1}
+   <materials>
+   {type:"item", id:44, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe253>
+<recipe254>
+   result:{type:"item", id:462, amount:1}
+   <materials>
+   {type:"item", id:187, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:3
+   known:false
+  <recipe254>
+<recipe255>
+   result:{type:"item", id:885, amount:1}
+   <materials>
+   {type:"item", id:462, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:4
+   known:false
+  <recipe255>
+<recipe256>
+   result:{type:"item", id:1140, amount:1}
+   <materials>
+   {type:"item", id:885, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:5
+   known:false
+  <recipe256>
+<recipe257>
+   result:{type:"item", id:993, amount:1}
+   <materials>
+   {type:"item", id:1130, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:10
+   craftLevel:5
+   known:false
+  <recipe257>
+<recipe258>
+   result:{type:"item", id:984, amount:1}
+   <materials>
+   {type:"item", id:1130, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:10
+   craftLevel:5
+   known:false
+  <recipe258>
+<recipe259>
+   result:{type:"item", id:803, amount:1}
+   <materials>
+   {type:"item", id:425, amount:1, cons:false}
+   {type:"item", id:1130, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:10
+   craftLevel:5
+   known:false
+  <recipe259>
+<recipe260>
+   result:{type:"item", id:1148, amount:1}
+   <materials>
+   {type:"item", id:229, amount:1, cons:false}
+   {type:"item", id:191, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:2
+   known:false
+  <recipe260>
+<recipe261>
+   result:{type:"item", id:1156, amount:1}
+   <materials>
+   {type:"item", id:895, amount:5, cons:false}
+   {type:"item", id:788, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:4
+   craftLevel:4
+   known:false
+  <recipe261>
+<recipe262>
+   result:{type:"item", id:1157, amount:1}
+   <materials>
+   {type:"item", id:895, amount:5, cons:false}
+   {type:"item", id:993, amount:1, cons:false}
+   {type:"item", id:789, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:4
+   craftLevel:5
+   known:false
+  <recipe262>
+<recipe263>
+   result:{type:"item", id:1176, amount:1}
+   <materials>
+   {type:"item", id:895, amount:2, cons:false}
+   {type:"item", id:951, amount:2, cons:false}
+   {type:"item", id:787, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:4
+   craftLevel:5
+   known:false
+  <recipe263>
+<recipe264>
+   result:{type:"item", id:1183, amount:1}
+   <materials>
+   {type:"item", id:887, amount:2, cons:false}
+   {type:"item", id:1182, amount:1, cons:false}
+   {type:"item", id:1128, amount:1, cons:false}
+   {type:"item", id:789, amount:2, cons:false}
+   {type:"item", id:525, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:2
+   craftLevel:5
+   known:false
+  <recipe264>
+<recipe265>
+   result:{type:"item", id:1185, amount:1}
+   <materials>
+   {type:"item", id:1140, amount:3, cons:false}
+   {type:"item", id:1128, amount:3, cons:false}
+   {type:"item", id:789, amount:2, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:4
+   craftLevel:5
+   known:false
+  <recipe265>
+<recipe266>
+   result:{type:"item", id:1276, amount:1}
+   <materials>
+   {type:"item", id:1273, amount:2, cons:false}
+   {type:"item", id:1294, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:10
+   known:false
+  <recipe266>
+<recipe267>
+   result:{type:"item", id:1277, amount:1}
+   <materials>
+   {type:"item", id:1274, amount:2, cons:false}
+   {type:"item", id:1294, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:10
+   known:false
+  <recipe267>
+<recipe268>
+   result:{type:"item", id:1278, amount:1}
+   <materials>
+   {type:"item", id:1273, amount:2, cons:false}
+   {type:"item", id:1274, amount:2, cons:false}
+   {type:"item", id:1294, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:3
+   craftLevel:10
+   known:false
+  <recipe268>
+<recipe269>
+   result:{type:"item", id:1279, amount:1}
+   <materials>
+   {type:"item", id:1273, amount:3, cons:false}
+   {type:"item", id:1294, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:10
+   known:false
+  <recipe269>
+<recipe270>
+   result:{type:"item", id:1280, amount:1}
+   <materials>
+   {type:"item", id:1274, amount:3, cons:false}
+   {type:"item", id:1294, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:10
+   known:false
+  <recipe270>
+<recipe271>
+   result:{type:"item", id:1281, amount:1}
+   <materials>
+   {type:"item", id:1273, amount:3, cons:false}
+   {type:"item", id:1274, amount:3, cons:false}
+   {type:"item", id:1294, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:10
+   known:false
+  <recipe271>
+<recipe272>
+   result:{type:"item", id:1288, amount:1}
+   <materials>
+   {type:"item", id:787, amount:1, cons:false}
+   {type:"item", id:1279, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:11
+   known:false
+  <recipe272>
+  <recipe273>
+   result:{type:"item", id:1289, amount:1}
+   <materials>
+   {type:"item", id:787, amount:1, cons:false}
+   {type:"item", id:1280, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:11
+   known:false
+  <recipe273>
+  <recipe274>
+   result:{type:"item", id:1290, amount:1}
+   <materials>
+   {type:"item", id:787, amount:2, cons:false}
+   {type:"item", id:1281, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:4
+   craftLevel:11
+   known:false
+  <recipe274>
+  <recipe275>
+   result:{type:"armor", id:1056, amount:1}
+   <materials>
+   {type:"item", id:1299, amount:6, cons:false}
+   {type:"item", id:1275, amount:6, cons:false}
+   {type:"item", id:1273, amount:15, cons:false}
+   {type:"item", id:789, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:10
+   craftLevel:7
+   known:false
+  <recipe275>
+<recipe276>
+   result:{type:"item", id:1301, amount:1}
+   <materials>
+   {type:"item", id:1297, amount:2, cons:false}
+   {type:"item", id:1299, amount:1, cons:false}
+   {type:"item", id:1128, amount:1, cons:false}
+   {type:"item", id:789, amount:2, cons:false}
+   {type:"item", id:525, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:2
+   craftLevel:6
+   known:false
+  <recipe276>
+<recipe277>
+   result:{type:"weapon", id:597, amount:1}
+   <materials>
+   {type:"weapon", id:589, amount:1, cons:false}
+   {type:"weapon", id:590, amount:1, cons:false}
+   {type:"weapon", id:591, amount:1, cons:false}
+   {type:"weapon", id:592, amount:1, cons:false}
+   {type:"weapon", id:593, amount:1, cons:false}
+   {type:"weapon", id:594, amount:1, cons:false}
+   {type:"weapon", id:595, amount:1, cons:false}
+   {type:"item", id:1026, amount:3, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:25
+   craftLevel:9
+   known:false
+  <recipe277>
+<recipe278>
+   result:{type:"weapon", id:675, amount:1}
+   <materials>
+   {type:"weapon", id:668, amount:1, cons:false}
+   {type:"item", id:1404, amount:1, cons:false}
+   {type:"item", id:1315, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe278>
+<recipe279>
+   result:{type:"weapon", id:676, amount:1}
+   <materials>
+   {type:"weapon", id:668, amount:1, cons:false}
+   {type:"item", id:1405, amount:1, cons:false}
+   {type:"item", id:1315, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe279>
+<recipe280>
+   result:{type:"weapon", id:677, amount:1}
+   <materials>
+   {type:"weapon", id:668, amount:1, cons:false}
+   {type:"item", id:1406, amount:1, cons:false}
+   {type:"item", id:1315, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe280>
+<recipe281>
+   result:{type:"weapon", id:678, amount:1}
+   <materials>
+   {type:"weapon", id:668, amount:1, cons:false}
+   {type:"item", id:1408, amount:1, cons:false}
+   {type:"item", id:1315, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe281>
+<recipe282>
+   result:{type:"weapon", id:679, amount:1}
+   <materials>
+   {type:"weapon", id:668, amount:1, cons:false}
+   {type:"item", id:1410, amount:1, cons:false}
+   {type:"item", id:1315, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe282>
+<recipe283>
+   result:{type:"weapon", id:680, amount:1}
+   <materials>
+   {type:"weapon", id:668, amount:1, cons:false}
+   {type:"item", id:1409, amount:1, cons:false}
+   {type:"item", id:1315, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe283>
+<recipe284>
+   result:{type:"weapon", id:681, amount:1}
+   <materials>
+   {type:"weapon", id:668, amount:1, cons:false}
+   {type:"item", id:1407, amount:1, cons:false}
+   {type:"item", id:1315, amount:5, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe284>
+<recipe285>
+   result:{type:"weapon", id:696, amount:1}
+   <materials>
+   {type:"weapon", id:694, amount:1, cons:false}
+   {type:"item", id:1441, amount:1, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe285>
+<recipe286>
+   result:{type:"weapon", id:699, amount:1}
+   <materials>
+   {type:"item", id:1442, amount:1, cons:false}
+   {type:"item", id:1444, amount:10, cons:false}
+   {type:"item", id:1436, amount:10, cons:false}
+   {type:"item", id:1445, amount:1, cons:false}
+   {type:"item", id:1522, amount:1, cons:false}
+   {type:"item", id:1446, amount:10, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:50
+   craftLevel:1
+   known:false
+  <recipe286>
+<recipe287>
+   result:{type:"armor", id:1239, amount:1}
+   <materials>
+   {type:"armor", id:969, amount:1, cons:false}
+   {type:"armor", id:1188, amount:1, cons:false}
+   {type:"item", id:1444, amount:5, cons:false}
+   {type:"item", id:1452, amount:5, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe287>
+<recipe288>
+   result:{type:"armor", id:1240, amount:1}
+   <materials>
+   {type:"armor", id:1204, amount:1, cons:false}
+   {type:"armor", id:966, amount:1, cons:false}
+   {type:"item", id:1436, amount:5, cons:false}
+   {type:"item", id:1455, amount:5, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:炼金术
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe288>
+<recipe289>
+   result:{type:"armor", id:1243, amount:1}
+   <materials>
+   {type:"armor", id:1009, amount:1, cons:false}
+   {type:"armor", id:714, amount:1, cons:false}
+   {type:"armor", id:455, amount:1, cons:false}
+   {type:"armor", id:231, amount:1, cons:false}
+   {type:"armor", id:909, amount:3, cons:false}
+   {type:"item", id:1522, amount:3, cons:false}
+   {type:"item", id:1456, amount:5, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:裁缝
+   xp:50
+   craftLevel:1
+   known:false
+  <recipe289>
+<recipe290>
+   result:{type:"weapon", id:704, amount:1}
+   <materials>
+   {type:"weapon", id:703, amount:1, cons:false}
+   {type:"weapon", id:490, amount:1, cons:false}
+   {type:"armor", id:965, amount:1, cons:false}
+   {type:"armor", id:653, amount:1, cons:false}
+   {type:"item", id:1451, amount:10, cons:false}
+   {type:"item", id:1521, amount:1, cons:false}
+   {type:"item", id:1523, amount:1, cons:false}
+   {type:"item", id:1527, amount:1, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:50
+   craftLevel:1
+   known:false
+  <recipe290>
+<recipe291>
+   result:{type:"armor", id:1248, amount:1}
+   <materials>
+   {type:"armor", id:1072, amount:1, cons:false}
+   {type:"armor", id:1021, amount:1, cons:false}
+   {type:"armor", id:1022, amount:1, cons:false}
+   {type:"armor", id:1023, amount:1, cons:false}
+   {type:"armor", id:1024, amount:1, cons:false}
+   {type:"item", id:1466, amount:1, cons:false}
+   {type:"item", id:1523, amount:1, cons:false}
+   {type:"item", id:1444, amount:5, cons:false}
+   {type:"item", id:1452, amount:5, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe291>
+<recipe292>
+   result:{type:"armor", id:1249, amount:1}
+   <materials>
+   {type:"armor", id:1072, amount:1, cons:false}
+   {type:"armor", id:1017, amount:1, cons:false}
+   {type:"armor", id:1018, amount:1, cons:false}
+   {type:"armor", id:1019, amount:1, cons:false}
+   {type:"armor", id:1020, amount:1, cons:false}
+   {type:"item", id:1467, amount:1, cons:false}
+   {type:"item", id:1523, amount:1, cons:false}
+   {type:"item", id:1444, amount:5, cons:false}
+   {type:"item", id:1452, amount:5, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe292>
+<recipe293>
+   result:{type:"armor", id:1250, amount:1}
+   <materials>
+   {type:"armor", id:1072, amount:1, cons:false}
+   {type:"armor", id:1013, amount:1, cons:false}
+   {type:"armor", id:1014, amount:1, cons:false}
+   {type:"armor", id:1015, amount:1, cons:false}
+   {type:"armor", id:1016, amount:1, cons:false}
+   {type:"item", id:1468, amount:1, cons:false}
+   {type:"item", id:1523, amount:1, cons:false}
+   {type:"item", id:1444, amount:5, cons:false}
+   {type:"item", id:1452, amount:5, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe293>
+<recipe294>
+   result:{type:"armor", id:1251, amount:1}
+   <materials>
+   {type:"armor", id:1072, amount:1, cons:false}
+   {type:"armor", id:1025, amount:1, cons:false}
+   {type:"armor", id:1026, amount:1, cons:false}
+   {type:"armor", id:1027, amount:1, cons:false}
+   {type:"armor", id:1028, amount:1, cons:false}
+   {type:"item", id:1469, amount:1, cons:false}
+   {type:"item", id:1523, amount:1, cons:false}
+   {type:"item", id:1444, amount:5, cons:false}
+   {type:"item", id:1452, amount:5, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe294>
+<recipe295>
+   result:{type:"armor", id:1252, amount:1}
+   <materials>
+   {type:"armor", id:1072, amount:1, cons:false}
+   {type:"armor", id:1033, amount:1, cons:false}
+   {type:"armor", id:1034, amount:1, cons:false}
+   {type:"armor", id:1035, amount:1, cons:false}
+   {type:"armor", id:1036, amount:1, cons:false}
+   {type:"item", id:1470, amount:1, cons:false}
+   {type:"item", id:1523, amount:1, cons:false}
+   {type:"item", id:1444, amount:5, cons:false}
+   {type:"item", id:1452, amount:5, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe295>
+<recipe296>
+   result:{type:"armor", id:1253, amount:1}
+   <materials>
+   {type:"armor", id:1072, amount:1, cons:false}
+   {type:"armor", id:1029, amount:1, cons:false}
+   {type:"armor", id:1030, amount:1, cons:false}
+   {type:"armor", id:1031, amount:1, cons:false}
+   {type:"armor", id:1032, amount:1, cons:false}
+   {type:"item", id:1471, amount:1, cons:false}
+   {type:"item", id:1523, amount:1, cons:false}
+   {type:"item", id:1444, amount:5, cons:false}
+   {type:"item", id:1452, amount:5, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe296>
+<recipe297>
+   result:{type:"armor", id:1287, amount:1}
+   <materials>
+   {type:"armor", id:1072, amount:1, cons:false}
+   {type:"armor", id:1267, amount:1, cons:false}
+   {type:"armor", id:1268, amount:1, cons:false}
+   {type:"armor", id:1269, amount:1, cons:false}
+   {type:"armor", id:1270, amount:1, cons:false}
+   {type:"item", id:1507, amount:1, cons:false}
+   {type:"item", id:1523, amount:1, cons:false}
+   {type:"item", id:1444, amount:5, cons:false}
+   {type:"item", id:1452, amount:5, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe297>
+<recipe298>
+   result:{type:"armor", id:1288, amount:1}
+   <materials>
+   {type:"armor", id:1072, amount:1, cons:false}
+   {type:"armor", id:1283, amount:1, cons:false}
+   {type:"armor", id:1284, amount:1, cons:false}
+   {type:"armor", id:1285, amount:1, cons:false}
+   {type:"armor", id:1286, amount:1, cons:false}
+   {type:"item", id:1508, amount:1, cons:false}
+   {type:"item", id:1523, amount:1, cons:false}
+   {type:"item", id:1444, amount:5, cons:false}
+   {type:"item", id:1452, amount:5, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe298>
+<recipe299>
+   result:{type:"armor", id:1247, amount:1}
+   <materials>
+   {type:"armor", id:1072, amount:1, cons:false}
+   {type:"armor", id:1009, amount:1, cons:false}
+   {type:"armor", id:1010, amount:1, cons:false}
+   {type:"armor", id:1011, amount:1, cons:false}
+   {type:"armor", id:1012, amount:1, cons:false}
+   {type:"item", id:1465, amount:1, cons:false}
+   {type:"item", id:1523, amount:1, cons:false}
+   {type:"item", id:1444, amount:5, cons:false}
+   {type:"item", id:1452, amount:5, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe299>
+<recipe300>
+   result:{type:"item", id:1510, amount:1}
+   <materials>
+   {type:"item", id:1531, amount:1, cons:false}
+   {type:"item", id:588, amount:1, cons:false}
+   {type:"item", id:526, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:5
+   craftLevel:3
+   known:false
+  <recipe300>
+<recipe301>
+   result:{type:"item", id:1511, amount:1}
+   <materials>
+   {type:"item", id:1531, amount:1, cons:false}
+   {type:"item", id:588, amount:1, cons:false}
+   {type:"item", id:526, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:5
+   craftLevel:3
+   known:false
+  <recipe301>
+<recipe302>
+   result:{type:"item", id:1512, amount:1}
+   <materials>
+   {type:"item", id:1531, amount:1, cons:false}
+   {type:"item", id:787, amount:1, cons:false}
+   {type:"item", id:526, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:5
+   craftLevel:3
+   known:false
+  <recipe302>
+<recipe303>
+   result:{type:"item", id:1514, amount:1}
+   <materials>
+   {type:"item", id:1532, amount:1, cons:false}
+   {type:"item", id:788, amount:1, cons:false}
+   {type:"item", id:526, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:5
+   craftLevel:4
+   known:false
+  <recipe303>
+<recipe304>
+   result:{type:"item", id:1515, amount:1}
+   <materials>
+   {type:"item", id:1532, amount:1, cons:false}
+   {type:"item", id:788, amount:1, cons:false}
+   {type:"item", id:526, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:5
+   craftLevel:4
+   known:false
+  <recipe304>
+<recipe305>
+   result:{type:"item", id:1516, amount:1}
+   <materials>
+   {type:"item", id:1532, amount:1, cons:false}
+   {type:"item", id:788, amount:1, cons:false}
+   {type:"item", id:526, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:5
+   craftLevel:4
+   known:false
+  <recipe305>
+<recipe306>
+   result:{type:"item", id:1517, amount:1}
+   <materials>
+   {type:"item", id:1532, amount:1, cons:false}
+   {type:"item", id:788, amount:1, cons:false}
+   {type:"item", id:526, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:5
+   craftLevel:4
+   known:false
+  <recipe306>
+<recipe307>
+   result:{type:"item", id:1533, amount:1}
+   <materials>
+   {type:"item", id:1529, amount:1, cons:false}
+   {type:"item", id:789, amount:1, cons:false}
+   {type:"item", id:526, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:5
+   craftLevel:5
+   known:false
+  <recipe307>
+<recipe308>
+   result:{type:"item", id:1534, amount:1}
+   <materials>
+   {type:"item", id:1529, amount:1, cons:false}
+   {type:"item", id:789, amount:1, cons:false}
+   {type:"item", id:526, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:5
+   craftLevel:5
+   known:false
+  <recipe308>
+<recipe309>
+   result:{type:"item", id:1535, amount:1}
+   <materials>
+   {type:"item", id:1529, amount:1, cons:false}
+   {type:"item", id:789, amount:1, cons:false}
+   {type:"item", id:526, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:5
+   craftLevel:5
+   known:false
+  <recipe309>
+<recipe310>
+   result:{type:"item", id:1536, amount:1}
+   <materials>
+   {type:"item", id:1529, amount:1, cons:false}
+   {type:"item", id:789, amount:1, cons:false}
+   {type:"item", id:526, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:5
+   craftLevel:5
+   known:false
+  <recipe310>
+<recipe311>
+   result:{type:"item", id:1537, amount:1}
+   <materials>
+   {type:"item", id:1530, amount:1, cons:false}
+   {type:"item", id:790, amount:1, cons:false}
+   {type:"item", id:526, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:8
+   craftLevel:5
+   known:false
+  <recipe311>
+<recipe312>
+   result:{type:"item", id:1538, amount:1}
+   <materials>
+   {type:"item", id:1530, amount:1, cons:false}
+   {type:"item", id:790, amount:1, cons:false}
+   {type:"item", id:526, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:8
+   craftLevel:5
+   known:false
+  <recipe312>
+<recipe313>
+   result:{type:"item", id:1539, amount:1}
+   <materials>
+   {type:"item", id:1530, amount:1, cons:false}
+   {type:"item", id:790, amount:1, cons:false}
+   {type:"item", id:526, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:8
+   craftLevel:5
+   known:false
+  <recipe313>
+<recipe314>
+   result:{type:"item", id:1540, amount:1}
+   <materials>
+   {type:"item", id:1530, amount:1, cons:false}
+   {type:"item", id:790, amount:1, cons:false}
+   {type:"item", id:526, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:8
+   craftLevel:5
+   known:false
+  <recipe314>
+<recipe315>
+   result:{type:"armor", id:1325, amount:1}
+   <materials>
+   {type:"armor", id:1201, amount:1, cons:false}
+   {type:"armor", id:1177, amount:1, cons:false}
+   {type:"armor", id:1194, amount:1, cons:false}
+   {type:"item", id:1523, amount:2, cons:false}
+   {type:"item", id:1451, amount:5, cons:false}
+   {type:"item", id:1452, amount:5, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:珠宝
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe315>
+<recipe316>
+   result:{type:"weapon", id:719, amount:1}
+   <materials>
+   {type:"weapon", id:718, amount:1, cons:false}
+   {type:"weapon", id:569, amount:1, cons:false}
+   {type:"armor", id:659, amount:1, cons:false}
+   {type:"item", id:1451, amount:15, cons:false}
+   {type:"item", id:1527, amount:1, cons:false}
+   {type:"item", id:1521, amount:1, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:50
+   craftLevel:1
+   known:false
+  <recipe316>
+<recipe317>
+   result:{type:"weapon", id:721, amount:1}
+   <materials>
+   {type:"weapon", id:709, amount:1, cons:false}
+   {type:"armor", id:1118, amount:1, cons:false}
+   {type:"armor", id:1307, amount:1, cons:false}
+   {type:"item", id:1436, amount:15, cons:false}
+   {type:"item", id:1444, amount:15, cons:false}
+   {type:"item", id:1527, amount:1, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:锻造
+   xp:50
+   craftLevel:1
+   known:false
+  <recipe317>
+<recipe318>
+   result:{type:"armor", id:1362, amount:1}
+   <materials>
+   {type:"armor", id:682, amount:1, cons:false}
+   {type:"armor", id:1166, amount:1, cons:false}
+   {type:"item", id:1436, amount:15, cons:false}
+   {type:"item", id:1611, amount:15, cons:false}
+   {type:"item", id:1612, amount:2, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:制皮
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe318>
+<recipe319>
+   result:{type:"armor", id:1375, amount:1}
+   <materials>
+   {type:"armor", id:1374, amount:1, cons:false}
+   {type:"armor", id:1184, amount:1, cons:false}
+   {type:"item", id:1523, amount:3, cons:false}
+   {type:"item", id:1611, amount:15, cons:false}
+   {type:"item", id:1527, amount:1, cons:false}
+   {type:"item", id:1315, amount:10, cons:false}
+   <materials>
+   goldCost:0
+   level:1
+   category:工程
+   xp:50
+   craftLevel:10
+   known:false
+  <recipe319>
